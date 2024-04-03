@@ -74,6 +74,30 @@ a:hover {
   text-decoration: none;
 }
 
+.a1 {
+  color: #f07228;
+  text-decoration: none;
+}
+
+.a1:focus,
+.a1:hover {
+  color: #f0b228;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.a2 {
+  color: black;
+  text-decoration: none;
+}
+
+.a2:focus,
+.a2:hover {
+  color: #f0b228;
+  cursor: pointer;
+  text-decoration: none;
+}
+
 body,
 td,
 th,

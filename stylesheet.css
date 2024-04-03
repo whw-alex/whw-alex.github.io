@@ -75,13 +75,13 @@ a:hover {
 }
 
 .a1 {
-  color: #e45fb5;
+  color: #ea45b0;
   text-decoration: none;
 }
 
 .a1:focus,
 .a1:hover {
-  color: #f0b228;
+  color: #e7729b;
   cursor: pointer;
   text-decoration: none;
 }
